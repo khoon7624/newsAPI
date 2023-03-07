@@ -74,7 +74,7 @@
   transition: 0.5s;
   padding-top: 60px;
 }
-.sidenav a {
+.sidenav button {
   padding: 8px 8px 8px 32px;
   text-decoration: none;
   font-size: 25px;
@@ -83,7 +83,7 @@
   transition: 0.3s;
   cursor: pointer;
 }
-.sidenav a:hover {
+.sidenav button:hover {
   color: #f1f1f1 !important;
 }
 .sidenav .closebtn {

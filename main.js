@@ -9,7 +9,7 @@ menus.forEach((menu) =>
 
 const getNews = async () => {
   let header = new Headers({
-    "x-api-key": "GBw8uygO-AwrHz0PrMP6Vi1R86z5iPTyqy4DnPoYm3o",
+    "x-api-key": "mGPjy8m5atwBUhQ39pG_pnMQHTJyz4bF_gUf9XsAGE8",
   });
 
   let response = await fetch(url, { headers: header });
